@@ -1,4 +1,4 @@
-## Tecnologias
+## Tecnologias utilizadas
 
 Para o desenvolvimento deste projeto foram utilizadas as seguintes tecnologias:
 
